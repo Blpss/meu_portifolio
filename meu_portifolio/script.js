@@ -1,0 +1,1 @@
+console.log("Portfólio da Isabela carregado com sucesso!");
